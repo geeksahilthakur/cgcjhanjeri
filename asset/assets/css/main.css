@@ -3210,3 +3210,16 @@ textarea.form-control {
 .accordion_card .card-body {
   font-size: 16px;
 }
+table{
+    font-family: sans-serif;
+}
+
+th{
+    background-color: #333;
+    color:#fff
+}
+
+th, td{
+    padding: .8rem;
+    font-size: 1rem;
+}
